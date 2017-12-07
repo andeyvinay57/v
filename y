@@ -1,4 +1,3 @@
-
 pipeline {
 
     agent any
@@ -46,8 +45,3 @@ pipeline {
                      }
 
                     }
-
-
-
-
-Click here to Reply or Forward
